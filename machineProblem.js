@@ -1,3 +1,12 @@
+
+/*
+   Program:     Computation of Grades using Function
+   Programmer:  Johann S. Karim
+   Section:     BCS24
+   Start Date:  April 17, 2023
+   End Date:    April 20, 2023
+*/
+
 function computeGrade(name, cp, s1, s2, s3, fe) {
   
   var cp_avg = (cp[0] + cp[1] + cp[2] + cp[3] + cp[4]) / 5;
